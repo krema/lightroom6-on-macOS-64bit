@@ -1,0 +1,33 @@
++ /Applications
++ /Applications/Adobe Lightroom/***
++ /Applications/Adobe/***
++ /Applications
++ /Applications/Utilities
++ /Applications/Utilities/Adobe Application Manager/***
++ /Applications/Utilities/Adobe Installers/***
++ /Library
++ /Library/Application Support
++ /Library/Application Support/Adobe/***
++ /Library/Application Support/regid.1986-12.com.adobe/***
++ /Library/LaunchAgents
++ /Library/LaunchAgents/com.adobe.AAM.Updater-1.0.plist
++ /Library/Internet Plug-Ins/
++ /Library/Internet Plug-Ins/AdobeAAMDetect.plugin/***
++ /Users/<YOUR_USER>/Library
++ /Users/<YOUR_USER>/Library/Application Support
++ /Users/<YOUR_USER>/Library/Application Support/Adobe/***
++ /Users/<YOUR_USER>/Library/Caches
++ /Users/<YOUR_USER>/Library/Caches/com.adobe.Lightroom6/***
++ /Users/<YOUR_USER>/Library/Caches/Adobe/***
++ /Users/<YOUR_USER>/Library/Caches/Adobe Camera Raw/***
++ /Users/<YOUR_USER>/Library/Caches/com.adobe.PDApp/***
++ /Users/<YOUR_USER>/Library/LaunchAgents
++ /Users/<YOUR_USER>/Library/LaunchAgents/com.adobe.AAM.Updater-1.0.plist
++ /Users/<YOUR_USER>/Library/Preferences
++ /Users/<YOUR_USER>/Library/Preferences/ByHost
++ /Users/<YOUR_USER>/Library/Preferences/ByHost/com.adobe.*
++ /Users/<YOUR_USER>/Library/Preferences/com.adobe.crashreporter.plist
++ /Users/<YOUR_USER>/Library/Preferences/com.Adobe.dynamiclinkmediaserver.10.0.plist
++ /Users/<YOUR_USER>/Library/Preferences/Adobe/***
++ /Users/<YOUR_USER>/Library/Preferences/com.Adobe.Common 10.0.plist
+- *
