@@ -26,8 +26,15 @@ All you need to do is executing the following in the Terminal.app.
 ### Restore
 
     sudo rsync -avm /Users/<YOUR_USER>/Downloads/Lightroom6_Backup/* /
+    
+Disable EULA
+
     vim /Library/Application\ Support/Adobe/Adobe\ Lightroom\ AMT/AMT/application.xml 
 
-Add following inside <Payload adobeCode="{XYZXYZXYZXYZXYZXYZ}"></Payload>
-
-    <Data key="EULADelay">-1</Data>
+    Add a new Data tag
+    
+        <Data key="EULADelay">-1</Data>
+    
+    inside your existing payload 
+    
+        <Payload adobeCode="{XYZXYZXYZXYZXYZXYZ}"></Payload>
