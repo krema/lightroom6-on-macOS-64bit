@@ -8,7 +8,6 @@ Then I checked what files the installer has installed and documented how I backe
 ## Prerequisites
 
  - Installed & activated Lightroom 6 
- - The restored copy works only on the same computer where it was previously installed.
  - **Important:** Replace <YOUR_USER> in lightroom6.txt and before executing the rsync commands
 
 ## Instructions
@@ -27,3 +26,8 @@ All you need to do is executing the following in the Terminal.app.
 ### Restore
 
     sudo rsync -avm /Users/<YOUR_USER>/Downloads/Lightroom6_Backup/* /
+    vim /Library/Application\ Support/Adobe/Adobe\ Lightroom\ AMT/AMT/application.xml 
+
+Add following inside <Payload adobeCode="{XYZXYZXYZXYZXYZXYZ}"></Payload>
+
+    <Data key="EULADelay">-1</Data>
