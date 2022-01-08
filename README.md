@@ -1,5 +1,5 @@
 
-# lightroom6-backup-restore-to-catalina-bigsur
+# lightroom6-on-macOS-64bit
 Instructions for backing up and restoring the Adobe Lightroom6 program on **MacOS Catalina**, **Big Sur** & **Monterey** on **Intel** and **Apple M1** machines without using the 32-bit installer.
 
 ## Why?
